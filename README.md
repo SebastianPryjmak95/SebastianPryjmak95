@@ -23,16 +23,28 @@
 
 - **Lenguajes**:
     <p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,c" />
+  <a href="https://www.cprogramming.com/" rel="nofollow" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+     
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" />
   </a>
 </p>
 
 
 - **Front-End Development**:
   <p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <a href="https://www.w3schools.com/html/" rel="nofollow" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+
+  <a href="https://www.w3schools.com/css/" rel="nofollow" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+
+  <a href="https://www.w3schools.com/js/" rel="nofollow" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
   </a>
 </p>
 
@@ -75,7 +87,7 @@
 <br>
 
 <li> 
-<a href="https://t.me/@seba_pry23" target="_blank">
+<a href="https://t.me/seba_pry23" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 
 </li>
