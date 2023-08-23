@@ -9,11 +9,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+Hola, soy Jorge sebastian Pryjmak. Un estudiante apasionado de desarrollo de software y entusiasta de la tecnología. Desde que me sumergí en el mundo de la informática, descubrí una pasión por aprender y explorar todo lo relacionado con la tecnología y la electrónica. Cada desafío que encuentro es una oportunidad para investigar y descubrir cómo puedo mejorar y superar obstáculos. La disciplina y la organización son valores que considero fundamentales para alcanzar mis objetivos tanto en mis estudios como en mi vida profesional. Una de las cosas que más disfruto es compartir mis conocimientos con los demás. Transmitir ese entusiasmo y conocimiento es algo que me llena de satisfacción. Mi objetivo es seguir creciendo en el campo del desarrollo de software y la tecnología, explorar nuevas tecnologías emergentes y desafiantes, y contribuir al desarrollo de soluciones innovadoras y efectivas. Estoy emocionado de enfrentar nuevos desafíos y continuar aprendiendo y mejorando cada día. Siendo una persona apasionada por la tecnología y con una actitud de aprendizaje continuo, estoy seguro de que puedo aportar un valor significativo a cualquier equipo de desarrollo o proyecto en el que participe. Estoy entusiasmado por las oportunidades que me esperan y por seguir creciendo en este emocionante mundo tecnológico.
 
 <br><br>
 
